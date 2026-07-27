@@ -13,8 +13,6 @@ Desarrollador Backend .NET.
 - Angular
 - Bootstrap
 - Git
-- Azure
-
 
 ## Contacto
 
