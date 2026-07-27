@@ -32,7 +32,4 @@ Desarrollador apasionado por la creación de aplicaciones web utilizando tecnolo
 - 🔹 Aprendiendo Azure y buenas prácticas de arquitectura.
 - 🔹 Buscando oportunidades como Backend .NET Developer.
 
-## Contacto
 
-- LinkedIn
-- Correo electrónico
