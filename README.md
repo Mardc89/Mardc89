@@ -16,5 +16,5 @@ Desarrollador Backend .NET.
 
 ## Contacto
 
-LinkedIn:linkedin.com/in/marindcelmer
-Correo:mardc0602@gmail.com
+- LinkedIn:linkedin.com/in/marindcelmer
+- Correo:mardc0602@gmail.com
